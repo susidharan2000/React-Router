@@ -1,6 +1,6 @@
     const Data = [
         {
-          img:"https://www.guvi.in/blog/wp-content/uploads/2022/06/Your-paragraph-text.png",
+          img:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.hpI0cNUhFV1h1O1iPAlGTAHaEK%26pid%3DApi&f=1&ipt=d001e8e91dd5448425b8cbe0571fc547fef13331413d6dc30bc5b49ef3608be7&ipo=images",
           title:"Data Science vs Data Analytics | Best Career Choice in 2024",
           author:"Lahari Chandana",
           contentTime:"3 Min Read",
@@ -8,7 +8,7 @@
           catagory:"Data Science"
         },
         {
-          img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Fetch-Data-using-API-in-React.Js.png",
+          img:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftheankitnet.com%2Fwp-content%2Fuploads%2F2022%2F12%2FReact-API.png&f=1&nofb=1&ipt=04a822d918380f851ea69ed56b76aa1ec2795e5e0c0796686607bc447249d4df&ipo=images",
           title:"Use ReactJS to fetch And Display data from API",
           author:"Tarun Singh",
           contentTime:"5 Min Read",
