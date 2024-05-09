@@ -64,7 +64,7 @@
           catagory:"Data Science"
         },
         {
-          img:"https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-scaled.jpg",
+          img:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fguestpostreach.com%2Fwp-content%2Fuploads%2F2020%2F11%2Fbecome-a-data-scientist.jpg&f=1&nofb=1&ipt=689f834aa7b0c783a2d44e915471a8d92d3ab27cd4fcee0160623ac7eb62e56d&ipo=images",
           title:"How to become a Data Scientist?",
           author:"Lahari Chandana",
           contentTime:"3 Min Read",
@@ -72,7 +72,7 @@
           catagory:"Data Science"
         },
         {
-          img:"https://www.guvi.in/blog/wp-content/uploads/2023/08/Everything-about-Data-Scientist-Salary-in-India-2023.png",
+          img:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.interviewbit.com%2Fblog%2Fwp-content%2Fuploads%2F2021%2F07%2FData-Scientist-Salary-in-India.png&f=1&nofb=1&ipt=48242361eb9f785a85424d724abe0dbfb111bc8c6c53dc1925714919ce19fa79&ipo=images",
           title:"Everything about Data Scientist Salary in India | 2024",
           author:"Srinithi Sankar",
           contentTime:"5 Min Read",
@@ -80,7 +80,7 @@
           catagory:"Data Science"
         },
         {
-          img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png",
+          img:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcultureofgaming.com%2Fwp-content%2Fuploads%2F2023%2F05%2Fethical-hacking-vs-1.png&f=1&nofb=1&ipt=49fe9b49ada6b256cbe2ab71de0eb9ddad8a00baff099c92a4575f3cd20c5d1f&ipo=images",
           title:"Cybersecurity Vs Ethical Hacking: Top 10 Differences",
           author:"Tushar Vinocha",
           contentTime:"5 Min Read",
@@ -88,7 +88,7 @@
           catagory:"Cyber Security"
         },
         {
-          img:"https://www.guvi.in/blog/wp-content/uploads/2023/05/2202.i402.018.S.m004.c13.Devops-engineer-flat-composition-scaled.jpg",
+          img:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbaggout.com%2Fwp-content%2Fuploads%2F2021%2F10%2F1.jpeg&f=1&nofb=1&ipt=26cbe81451a7b9fc4c65498ff0869e6d4e76b0c8a01e46f09ef3b19689f03a16&ipo=images",
           title:"Is Data Science A Good Career Choice In 2024?",
           author:"Archana",
           contentTime:"4 Min Read",
