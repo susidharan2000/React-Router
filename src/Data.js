@@ -24,7 +24,7 @@
           catagory:"Cyber Security"
         },
         {
-          img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Render-array-of-objects-in-ReactJs.png",
+          img:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.MMXipSQk32MhGM4_vEezNQHaEK%26pid%3DApi&f=1&ipt=c21b81dd0443f6d435a5fe43e29a0d5e8c02b416ccad19b118c4ae55baed0470&ipo=images",
           title:"How to Render an Array of Objects in React? [in 3 easy steps]",
           author:"Tarun Singh",
           contentTime:"7 Min Read",
