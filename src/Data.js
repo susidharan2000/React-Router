@@ -32,7 +32,7 @@
           catagory:"Full Stack Development"
         },
         {
-          img:"https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+          img:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.spaceo.ca%2Fwp-content%2Fuploads%2F2021%2F08%2FFull-Stack-Project-Ideas.jpg&f=1&nofb=1&ipt=bc2e5e3d2a44cb6004674c34ceca0b421b10a507bf0f5cabcc90f956b46d6f10&ipo=images",
           title:"Best Full-Stack Development Ideas in 2024",
           author:"Isha Sharma",
           contentTime:"4 Min Read",
@@ -40,7 +40,7 @@
           catagory:"Full Stack Development"
         },
         {
-          img:"https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-1536x804.png",
+          img:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ZUp0mvv8BIfrjzuhjTfNRAHaD4%26pid%3DApi&f=1&ipt=7a18b2cf2ae1943b521b5cbe7d16fde81583ec782d82c5790d3b625ce6fd340d&ipo=images",
           title:"The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
           author:"By Tushar Vinocha",
           contentTime:"2 Min Read",
@@ -48,7 +48,7 @@
           catagory:"Cyber Security"
         },
         {
-          img:"https://www.guvi.in/blog/wp-content/uploads/2021/05/react-1536x804.jpg",
+          img:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.krishnakantyadav.com%2Fblog%2Fwp-content%2Fuploads%2F2022%2F03%2FReactJS-Everything-You-Should-Know-About-It.png&f=1&nofb=1&ipt=6805b80471bb274d41199a4d10a277566b297c70557bec6a2c6a1304794f9afb&ipo=images",
           title:"6 Essintial PreRequest For learning ReactJs",
           author:"Isha Sharma",
           contentTime:"4 Min Read",
@@ -56,7 +56,7 @@
           catagory:"Full Stack Development"
         },
         {
-          img:"https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png",
+          img:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthenyhour.com%2Fwp-content%2Fuploads%2F2023%2F02%2FUnderstanding-The-Roles-And-Responsibilities-Of-A-Data-Scientist-750x430.png&f=1&nofb=1&ipt=c0745eb779209a8629cc0dee4f31a50baf4faedb669acead4ee9c54329e9f8fa&ipo=images",
           title:"Roles and Responsibilities of a Data Scientist",
           author:"Jaishree Tomar",
           contentTime:"6 Min Read",
